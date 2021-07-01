@@ -2,7 +2,7 @@
 
 I'm a Backend Engineer and Computer Science Master's student who is passionate about Software Architecture and Design.
 
-<img alt="Intro" src="https://raw.githubusercontent.com/alex-shmukler/alex-shmukler/master/info.png" align="right" width="360"/>
+<!-- <img alt="Intro" src="https://raw.githubusercontent.com/alex-shmukler/alex-shmukler/master/info.png" align="right" width="360"/> -->
 
 ### 🛠 Tech Stack
 ![CSharp](https://img.shields.io/static/v1?message=C%23&logo=c-sharp&labelColor=5c5c5c&color=blue&logoColor=white&label=%20)
