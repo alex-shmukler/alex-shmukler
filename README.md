@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a Backend Engineer and Computer Science Master's student who is passionate about Software Architecture and Design.
+I'm a Software Engineer and Computer Science Master's student who is passionate about Software Architecture and Design.
 
 <!-- <img alt="Intro" src="https://raw.githubusercontent.com/alex-shmukler/alex-shmukler/master/info.png" align="right" width="360"/> -->
 
